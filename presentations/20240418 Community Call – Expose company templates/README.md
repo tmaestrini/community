@@ -12,5 +12,5 @@ Useful scenario to make centrally managed company templates (from a document lib
 
 | Title     | Link                                                                                                                                                           |
 | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Recording | Viva Connections and SharePoint Framework Community Call (18.04.2024)                                                                                               |
+| Recording | [Viva Connections and SharePoint Framework Community Call (18.04.2024)](https://youtu.be/YoMCD4lfdJY?feature=shared&t=1088)                                    |
 | Code      | [https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-company-templates](https://github.com/pnp/sp-dev-fx-extensions/tree/main/samples/react-company-templates) |
