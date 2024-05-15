@@ -19,7 +19,7 @@ Copilot is evolving an d offerse more and more _extension points_:
 
 Useful resources:
 
-- Check out the [**Copilot Learning hub**](learn.microsoft.com/Copilot) to get inspired for a bunch of resoureces helping to get start and to adopt Copilot in your daily (business) life.
+- Check out the [**Copilot Learning hub**](https://learn.microsoft.com/Copilot) to get inspired for a bunch of resoureces helping to get start and to adopt Copilot in your daily (business) life.
 - https://platform.openai.com
 - Github Copilot Workspaces 
 - https://learn.microsoft.com/Copilot
