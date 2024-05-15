@@ -9,7 +9,7 @@ Type: Personal Notes
 
 There are 117 different Copilots in the Microsoft ecosystem:
 
-![4.1](./images/Tue-4.1.png)
+![4.1](./assets/Tue-4.1.png)
 
 There are some threats coming along with using AI powered tools – categorized into these items:
 
@@ -26,7 +26,7 @@ There are two options to extend Copilot:
 
 Decide which Copilot extensibility option should be used by considering this decision table (by [Stephan Bisser](https://bisser.io/copilot-for-microsoft-365-series-2-extensibility-options/)):
 
-![4.3](./images/Tue-4.3.png)
+![4.3](./assets/Tue-4.3.png)
 
 ## Extensibility
 
@@ -40,7 +40,7 @@ The way Copilot plugins work is as follows (by [Stephan Bisser](https://bisser.i
 1. If Microsoft 365 data is required, Copilot grounds prompt before forwarding to LLM & after receiving LLM response using Graph & Semantic Index
 1. If non-Microsoft 365 data is required, Copilot fetches available plugins & connectors to decide where to retrieve information from. If user’s intent is to take actions in a 3rd party system with a plugin available, Copilot uses plugin to execute plan
 
-![4.4](./images/Tue-4.4.png)
+![4.4](./assets/Tue-4.4.png)
 
 By writing Graph Connectors, you can implement your onw Copilot data ingestion concept. Keep in mind, that any implementation should always follow some guidelines – and ALWAYS implement `acls` to take care who can access your data.
 
@@ -57,7 +57,7 @@ The orchestration layer represents the interface between foundation LLMs and the
 
 The following chart illustrates how the Copilot for Microsoft 365 orchestrator selects the right plugin, with the right skill, at the right time, even when there are thousands of options to choose from [(see source)](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/orchestrator?tabs=tasks):
 
-![4.5](./images/Tue-4.5.png)
+![4.5](./assets/Tue-4.5.png)
 
 ## Challenges when building plugins
 
