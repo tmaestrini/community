@@ -49,7 +49,7 @@ By writing Graph Connectors, you can implement your onw Copilot data ingestion c
 Your implementation is nothing more than a **Teams Messaging Extension** that returns a result as an **Adaptive Card**.
 By saying this, an appropriate **`description` definition in the manifest** (👉 the general description, the `commands` description and the `parameter` description) is crucial: the values tell the Copilot engine when to engage this custom extension – and which data comes from the parameters.
 
-The following chart illustrates how the Copilot for Microsoft 365 orchestrator selects the right plugin, with the right skill, at the right time, even when there are thousands of options to choose from:
+The following chart illustrates how the Copilot for Microsoft 365 orchestrator selects the right plugin, with the right skill, at the right time, even when there are thousands of options to choose from [(see source)](https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/orchestrator?tabs=tasks):
 
 ![4.5](./images/Tue-4.5.png)
 
