@@ -7,3 +7,4 @@ Type: Personal Notes
 
 # In the Flow of Dataverse: Leveraging Plugins & Power Automate Intelligently
 
+Session unfortunately not attended (time schedule clash)

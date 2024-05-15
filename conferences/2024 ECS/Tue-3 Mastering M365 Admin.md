@@ -3,6 +3,7 @@ Conference: ECS24
 Date: 15.05.2024 12:00
 Speaker: Andreas Krüger (@andikrueger_de)
 Type: Personal Notes
+Categories: Microsoft 365
 ---
 
 # Mastering Microsoft 365 Administration: The checklist
