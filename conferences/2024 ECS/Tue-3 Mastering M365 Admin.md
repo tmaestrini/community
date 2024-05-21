@@ -51,4 +51,4 @@ Following settings are considered to be checked / validated:
     👉 consider a Data Loss rpevention policy level to restrict data using
 
 # Slides / Resources
-[Tue-3.1.pdf](./assets/Tue-3.1 Mastering Microsoft 365 Administration - the checklist.pdf)
+![Tue-3.1.pdf](./assets/Tue-3.1 Mastering Microsoft 365 Administration - the checklist.pdf)

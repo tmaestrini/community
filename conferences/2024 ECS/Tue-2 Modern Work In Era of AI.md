@@ -32,4 +32,4 @@ AI offers a lot of capabilties and improves a "modern" developer in being a "bet
 Getting started with thesse top 10 Copilot sklls: [aka.ms/CopilotLab](https://aka.ms/CopilotLab)
 
 # Slides / Resources
-[Tue-2.2.pdf](./assets/Tue-2.2.pdf)
+![Tue-2.2.pdf](./assets/Tue-2.2.pdf)
