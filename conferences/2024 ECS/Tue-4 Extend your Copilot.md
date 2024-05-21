@@ -66,3 +66,6 @@ The following chart illustrates how the Copilot for Microsoft 365 orchestrator s
 * Responsible AI: aviod using inappropriate or offensive keywords
 
 👉 Look for GitHub samples before you start working / coding – and watch the security session from Johann Rehberger
+
+# Slides / Resources
+[Tue-4.6](./assets/Tue-4.6 Extend your Copilot - Gölles Bisser.pdf)
