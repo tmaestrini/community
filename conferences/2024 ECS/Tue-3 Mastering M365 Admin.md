@@ -50,5 +50,5 @@ Following settings are considered to be checked / validated:
   - Connectors
     👉 consider a Data Loss rpevention policy level to restrict data using
 
-# Slides / Resources
-![Tue-3.1.pdf](./assets/Tue-3.1%20Mastering%20Microsoft%20365%20Administration%20-%20the%20checklist.pdf)
+# Resources
+- [Slides](./assets/Tue-3.1%20Mastering%20Microsoft%20365%20Administration%20-%20the%20checklist.pdf)

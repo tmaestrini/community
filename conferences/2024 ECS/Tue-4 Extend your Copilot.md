@@ -67,5 +67,5 @@ The following chart illustrates how the Copilot for Microsoft 365 orchestrator s
 
 👉 Look for GitHub samples before you start working / coding – and watch the security session from Johann Rehberger
 
-# Slides / Resources
-![Tue-4.6](./assets/Tue-4.6%20Extend%20your%20Copilot%20-%20Gölles%20Bisser.pdf)
+# Resources
+- [Slides](./assets/Tue-4.6%20Extend%20your%20Copilot%20-%20Gölles%20Bisser.pdf)
