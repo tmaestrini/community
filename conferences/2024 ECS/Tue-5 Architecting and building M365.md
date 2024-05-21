@@ -139,4 +139,5 @@ User Settings
 - provide reporting for monitoring and measuring usage
 - rely as much as you can cn bloud-based services for backup / restore
 
-
+# Slides / Resources
+[Tue-5.1](./assets/Tue-5.1 ECS2024 - Architecting and building end-to-end Microsoft 365 Solutions - PaoloPia.pdf)
