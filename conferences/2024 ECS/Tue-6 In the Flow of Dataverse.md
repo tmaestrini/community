@@ -10,4 +10,4 @@ Type: Personal Notes
 Session unfortunately not attended (time schedule clash)
 
 # Slides / Resources
-![Tue-6.1](./assets/Tue-6.1 Luise & Yannick - Collabsummit - In the flow of Dataverse.pdf)
+![Tue-6.1](./assets/Tue-6.1%20Luise%20&%20Yannick%20-%20Collabsummit%20-%20In%20the%20flow%20of%20Dataverse.pdf)
