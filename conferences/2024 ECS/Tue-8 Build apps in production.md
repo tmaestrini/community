@@ -49,3 +49,6 @@ Press CTRL+C to stop Dev Proxy
 ```
 
 In the very well-documented documentation, follow the [«How-To» guidelines](https://learn.microsoft.com/en-us/microsoft-cloud/dev/dev-proxy/how-to/overview) to get familiar with the tool.
+
+# Slides / Resources
+- [Slides](./assets/Tue-8%20ECS-DevProxy.pptx)

@@ -8,3 +8,6 @@ Type: Personal Notes
 # In the Flow of Dataverse: Leveraging Plugins & Power Automate Intelligently
 
 Session unfortunately not attended (time schedule clash)
+
+# Resources
+- [Slides](./assets/Tue-6.1%20Luise%20&%20Yannick%20-%20Collabsummit%20-%20In%20the%20flow%20of%20Dataverse.pdf)

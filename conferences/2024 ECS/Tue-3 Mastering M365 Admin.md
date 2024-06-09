@@ -49,3 +49,6 @@ Following settings are considered to be checked / validated:
     👉 Disable the 'trial' experience to the end user by using `Get-AllowedContestPlans` from PowerApps PowerShell
   - Connectors
     👉 consider a Data Loss rpevention policy level to restrict data using
+
+# Resources
+- [Slides](./assets/Tue-3.1%20Mastering%20Microsoft%20365%20Administration%20-%20the%20checklist.pdf)
