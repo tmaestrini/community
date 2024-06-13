@@ -54,7 +54,7 @@ As mentioned earlier, it does not matter how many devs are working together – 
 👉 One crucial thing: always choose the setup that supports you the most and makes you best productive!
 
 ## Scenario A: «Standard»
-![Scenario A](./assets/scenarioA.png)
+![Scenario A](./assets/Developing%20Power%20Apps%20in%20a%20Dev%20Team/scenarioA.png)
 
 ## Scenario B: «Grow together»
 When choosing scenario B, every dev must checkout the latest develop branch and initialize a new feature branch – always before he starts to work on the epic or task that has to be implemented. Don’t forget to push the branch to the central repository (backup and collaboration purpose).
@@ -66,7 +66,7 @@ When a feature is finished, it is merged back into the develop branch.
 
 Let’s put that into a drawing:
 
-![Scenario B](./assets/scenarioB.png)
+![Scenario B](./assets/Developing%20Power%20Apps%20in%20a%20Dev%20Team/scenarioB.png)
 
 ### Why every dev needs his own development environment in the Power Platform
 Guess why… You’re right: as long as you develop in your own environment – no one else’s changes will affect your work. This means that your work is always safe from «accidental move of destruction» (as long that you’re backing up the changes on your feature branch in the central repository) or a change that affects the same module.
