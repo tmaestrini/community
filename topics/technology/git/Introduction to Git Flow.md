@@ -29,8 +29,8 @@ In addition to these two main branches, GitFlow uses four types of supporting br
   </tr>
 </table>
 
-> !NOTE
-> We will not cover the **support** flow / branch in these topic.
+> [!NOTE]
+> We will not cover the **support** flow / branch in this topic.
 
 
 ### Commands
