@@ -9,7 +9,7 @@ GitFlow is a workflow that defines a strict branching structure and a set of rul
 - **main**: This branch contains the _production-ready_ code. It is updated only when a new release is ready to be deployed.
 - **develop**: This branch contains the _latest features and bug fixes_ that are being worked on. It is updated regularly by merging feature branches into it.
 
-In addition to these two main branches, GitFlow uses four types of supporting branches: feature, release, hotfix, and support.
+In addition to these two main branches, GitFlow uses four types of supporting branches: **feature**, **release**, **hotfix** and **support**.
 
 <table>
   <tr>
@@ -28,6 +28,8 @@ In addition to these two main branches, GitFlow uses four types of supporting br
     <td>Main → Hotfix → Develop & Main</td>
   </tr>
 </table>
+
+We will not cover the **support** flow / branch in these topic.
 
 
 ### Commands
