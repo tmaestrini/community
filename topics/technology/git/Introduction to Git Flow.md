@@ -13,17 +13,17 @@ In addition to these two main branches, GitFlow uses four types of supporting br
 
 <table>
   <tr>
-    <td valign="top">Feature</td>
+    <td valign="top"><strong>Feature</strong></td>
     <td>These branches are created from develop and merged back into develop when a feature is completed. They are used to implement new functionality or enhancements. They have names like feature/xxx, where xxx is a descriptive name of the feature.</td>
     <td>Develop → Feature → Develop</td>
   </tr>
   <tr>
-    <td valign="top">Release</td>
+    <td valign="top"><strong>Release</strong></td>
     <td>These branches are created from develop and merged into main and develop when a release is ready to be deployed. They are used to prepare the code for production, such as fixing bugs, updating documentation, and changing configuration. They have names like <code>release/x.y.z</code>, where <code>x.y.z</code> is the version number of the release.</td>
     <td>Develop → Release → Develop & Main</td>
   </tr>
   <tr>
-    <td valign="top">Hotfix</td>
+    <td valign="top"><strong>Hotfix</strong></td>
     <td>These branches are created from main and merged into main and develop when a critical bug needs to be fixed in production. They are used to patch the code without affecting the ongoing development. They have names like <code>hotfix/x.y.z</code>, where <code>x.y.z</code> is the version number of the hotfix.</td>
     <td>Main → Hotfix → Develop & Main</td>
   </tr>
