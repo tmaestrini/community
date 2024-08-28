@@ -42,8 +42,7 @@ The guidelines set forth in the Coding Standards referenced above also apply:
 
 ## Storing code resources in code repository
 
-Each Power Platform Canvas App must be stored in a code repository, representing the latest state ("latest release candidate") or the latestchange. To do this, the solution always must be exported as an _unmanaged soution_.
-The export is done from the PowerApps design area by clicking "Download copy":
+Each Power Platform Canvas App must be stored in a code repository, representing the latest state ("latest release candidate") or the latest change. To do this, the solution always must be exported as an _unmanaged soution_.
 
 The source code of each release must be stored as in its according (git) repository.
 
