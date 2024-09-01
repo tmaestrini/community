@@ -18,7 +18,7 @@ Reference: [Linkedin Post](https://www.linkedin.com/posts/ami-diamond-mvp-70a798
 - Number of org-wide teams allowed in a tenant: 5
 
 > [!NOTE]
-> Org-wide teams are available in organizations with no more than 10,000 users ([Credit: David Dorigo](https://www.linkedin.com/feed/update/urn:li:activity:7235206812256395265?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7235206812256395265%2C7235267977690927104%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287235267977690927104%2Curn%3Ali%3Aactivity%3A7235206812256395265%29))
+> Org-wide teams are available in organizations with no more than 10'000 users ([Credit: David Dorigo](https://www.linkedin.com/feed/update/urn:li:activity:7235206812256395265?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7235206812256395265%2C7235267977690927104%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287235267977690927104%2Curn%3Ali%3Aactivity%3A7235206812256395265%29))
 
 ## Channels
 
