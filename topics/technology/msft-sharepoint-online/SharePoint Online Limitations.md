@@ -4,7 +4,7 @@ Reference: [Linkedin Post](https://www.linkedin.com/posts/ami-diamond-mvp-70a798
 
 > [!TIP]
 > Service boundaries and limits are subject to change. Therefore, this overview should be considered carefully.<br>
-> 👉 Check the [official resource documentation](https://learn.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits).
+> 👉 Check the [official resource documentation](https://learn.microsoft.com/en-us/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) as well as [Restrictions and limitations in OneDrive and SharePoint](https://support.microsoft.com/en-us/office/restrictions-and-limitations-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 ## SharePoint limits (general)
 
@@ -36,11 +36,16 @@ Reference: [Linkedin Post](https://www.linkedin.com/posts/ami-diamond-mvp-70a798
 - Max. decoded file path including the file name: Can't contain more than 400 characters (OneDrive and SharePoint).
 - For each segment of the path in OneDrive Sync: 255 characters due to operating system limitations.
 
+### Invalid characters
+- Characters that aren't allowed in file and folder names: `" * # % : < > ? / \ |` <br/>
+  👉 The chars `#` and `%` can be allowed by a Tenant Administrator
+
 ### File handling across sites
 
 #### Syncing
 
 - Max. amount of files across the tenant: No more than 300'000 files across all libraries.
+- Max. length of the OneDrive root folder (e.g. C:\users\meganb\OneDrive - Contoso) + the relative path of the file (up to 400 chars) cannot be more than 520 characters (on MacOS and Windows).
 
 #### Moving & copying
 
@@ -57,3 +62,7 @@ Reference: [Linkedin Post](https://www.linkedin.com/posts/ami-diamond-mvp-70a798
 - Max. amout of groups per site: you can have up to 10,000 groups per site (site collection).
 - Max. amount of groups per user: a user can belong to 5,000 groups per site (site collection)
 - Users per group: each group can have up to 5,000 users.
+
+## Account synchronization
+
+- Max. amount of synced OneDrive accounts: `1` Home account and `9` Work or School accounts
