@@ -59,10 +59,10 @@ Reference: [Linkedin Post](https://www.linkedin.com/posts/ami-diamond-mvp-70a798
 
 ### SharePoint groups
 
-- Max. amout of groups per site: you can have up to 10,000 groups per site (site collection).
-- Max. amount of groups per user: a user can belong to 5,000 groups per site (site collection)
-- Users per group: each group can have up to 5,000 users.
+- Max. amout of groups per site: you can have up to 10'000 groups per site (site collection).
+- Max. amount of groups per user: a user can belong to 5'000 groups per site (site collection)
+- Users per group: each group can have up to 5'000 users.
 
 ## Account synchronization
 
-- Max. amount of synced OneDrive accounts: `1` Home account and `9` Work or School accounts
+- Max. amount of synced OneDrive accounts: `1` home account and `9` work or school accounts
