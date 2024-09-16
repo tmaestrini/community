@@ -41,10 +41,11 @@ The guidelines set forth in the Coding Standards referenced above also apply:
 > An appropriate process for user acceptance testing must be implemented by every customer as part of every project.
 
 ### General naming conventions
+
 - **Camel case** for **controls and variables**: Camel case begins with a lowercase prefix, removes all spaces from object or variable names, and capitalizes the first letter of each word after the first. <br>
-   *Example*: a text input control might be named `txtUserEmailAddress`.
+  _Example_: a text input control might be named `txtUserEmailAddress`.
 - **Pascal case** for **data sources**: Pascal case is sometimes referred to as “upper camel case.” Like camel case, it removes all spaces AND capitalizes the first letter of words. <br>
-   *Example*: a common data source in PowerApps (Microsoft Office 365 Users connector) `Office365Users`.
+  _Example_: a common data source in PowerApps (Microsoft Office 365 Users connector) `Office365Users`.
 
 ### Object naming in your app
 
@@ -74,17 +75,18 @@ Always create (at least) one screen to document the following stuff that was use
 
 Make sure the screen name is set `App Documentation Screen`.
 
-## Managing source code from apps 
+## Managing source code from apps
 
 ### Release tagging and notes
+
 Every new released version / release candidate of a Power Platform App must be documented in English.
-All notable changes to the release should be documented as a simple **changelog** (changelog = contains a curated, chronologically ordered list of notable changes for each version of a project). 
+All notable changes to the release should be documented as a simple **changelog** (changelog = contains a curated, chronologically ordered list of notable changes for each version of a project).
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and contains these types of changes:
 
 - new features: `Added`
 - changes in existing functionality: `Changed`
-- removed features: `Removed` 
+- removed features: `Removed`
 - bug fixes or code corrections: `Fixed`
 
 The changelog must always contain the release number (version), which adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html). The changelog text starts with:
