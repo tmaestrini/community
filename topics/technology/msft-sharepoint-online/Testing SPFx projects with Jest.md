@@ -8,7 +8,7 @@ Reference: [Blog Post](https://titolivio.eu/2024/04/30/testing-sharepoint-framew
 
 ## Testing a Typescript SPFX project with the Jest framework
 
-In order tests for a SharePoint Framework (SPFx) project in TypeScript using the [Jest testing frameweork](https://jestjs.io/) (no matter whether web parts or extensions are targeted), several basic adjustments are needed. Following recommendations worked like a charm for me (tested with SPFx version ≥ 1.19)
+In order tests for a SharePoint Framework (SPFx) project in TypeScript using the [Jest testing framework](https://jestjs.io/) (no matter whether web parts or extensions are targeted), several basic adjustments are needed. Following recommendations worked like a charm for me (tested with SPFx version ≥ 1.19).
 
 ## Minimal path to awesome (setup)
 
@@ -23,7 +23,7 @@ In order tests for a SharePoint Framework (SPFx) project in TypeScript using the
    Optionally, to _test React components_, you also could install these two libraries to write more concise and readable tests by providing additional assertions for common testing scenarios:
 
    ```bash
-   npm install --save-dev @testing-library/react @testing-library/jest-do
+   npm install --save-dev @testing-library/react @testing-library/jest-dom
    ```
 
 2. Configure Jest
@@ -83,7 +83,7 @@ In order tests for a SharePoint Framework (SPFx) project in TypeScript using the
 
 ## Write and run tests
 
-As the setup is complete, you will be ready to write tests and run them on your dev machine:
+As the setup is complete, you will be ready to write tests and run them on your local dev machine:
 
 1. Create (a) test file(s)
 
