@@ -8,7 +8,7 @@ The following content is taken from the blog post mentioned above.
 
 ### Prerequisites
 
-> [!INFO]
+> [!NOTE]
 > In order to have a proper testing setup, please refer to this article: [Testing SPFx projects with Jest](./Testing%20SPFx%20projects%20with%20Jest.md)
 
 ### Necessary mode modules (dependencies)
@@ -63,7 +63,7 @@ it("renders hello message", () => {
 
 When testing components that have dependencies, we can use Jest’s mocking capabilities.
 
-> [!INFO]
+> [!TIP]
 > It is always a good idea to use mocks sparingly to keep tests focused and maintainable.
 
 For example, if we have the `HelloWorld` component that uses the `IDataService` service to fetch data, we could mock this service in our test. This allows us to isolate the behavior of the component from its dependencies:
