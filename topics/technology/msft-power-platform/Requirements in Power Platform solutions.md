@@ -10,7 +10,8 @@ But if only it were really that easy! The promise that “every employee can bui
 
 This means that requirements engineering has regained the importance that is familiar from software development in its “non-modern” form (or we could say "from the old days"). Nothing has actually changed in this respect - on the contrary. Even an experienced (modern) software architect or developer will certainly confirm this: if requirements are insufficiently defined, an app will never deliver what the idea originally promised. It's usually not as “simple” or “modern” as you think!
 
-> [!TIP] > **From consultant to consultant**<br>
+> [!TIP] 
+> **From consultant to consultant**<br>
 > Your customers need _you_ – otherwise they would not have entrusted you with the task of designing and implementing a (Power Platform) app together with them. Therefore, invest in good and, above all, clean envisioning your work / app, which involves describing the project and **above all, clearly specifying the requirements**.
 
 **Therefore, I recommend ALWAYS including the following chapters in a basic / minimalistic requirements document.**
