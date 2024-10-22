@@ -2,13 +2,13 @@
 
 ## A fairy tale about planning and building software in a modern way
 
-Power Apps - or Power Platform Solutions in general - are supposedly “quick and easy” to build: once the idea is in your head, the app can be “built” (by clicking or defining - or whatever 😃). It's uncomplicated and very efficient - this is software development in its most “modern” form! For _Makers_ (according to Microsoft, Makers are users who create and customize applications, workflows, and dashboards without needing extensive coding knowledge) and also consultants (the aim of the latter is to make their own customers even better with good advice), this is a really nice starting point, which is great fun and can be achieved straight-forward.
+Power Apps - or Power Platform Solutions in general - are supposedly "quick and easy" to build: once the idea is in your head, the app can be "built" (by clicking or defining - or whatever 😃). It's uncomplicated and very efficient - this is software development in its most "modern" form! For _Makers_ (according to Microsoft, Makers are users who create and customize applications, workflows, and dashboards without needing extensive coding knowledge) and also consultants (the aim of the latter is to make their own customers even better with good advice), this is a really nice starting point, which is great fun and can be achieved straight-forward.
 
-But if only it were really that easy! The promise that “every employee can build their own app - all they need is a good idea” doesn't match my experience. It is so important to **give sufficient and good thought to the requirements for an app** – not just as a consultant, even as a Maker.
+But if only it were really that easy! The promise that "every employee can build their own app - all they need is a good idea" doesn't match my experience. It is so important to **give sufficient and good thought to the requirements for an app** – not just as a consultant, even as a Maker.
 
 ## Requirements are (still) important today
 
-This means that requirements engineering has regained the importance that is familiar from software development in its “non-modern” form (or we could say "from the old days"). Nothing has actually changed in this respect - on the contrary. Even an experienced (modern) software architect or developer will certainly confirm this: if requirements are insufficiently defined, an app will never deliver what the idea originally promised. It's usually not as “simple” or “modern” as you think!
+This means that requirements engineering has regained the importance that is familiar from software development in its "non-modern" form (or we could say "from the old days"). Nothing has actually changed in this respect - on the contrary. Even an experienced (modern) software architect or developer will certainly confirm this: if requirements are insufficiently defined, an app will never deliver what the idea originally promised. It's usually not as "simple" or "modern" as you think!
 
 > [!TIP] 
 > **From consultant to consultant**<br>
