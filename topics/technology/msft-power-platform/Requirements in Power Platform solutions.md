@@ -12,7 +12,7 @@ This means that requirements engineering has regained the importance that is fam
 
 > [!TIP] 
 > **From consultant to consultant**<br>
-> Your customers need _you_ – otherwise they would not have entrusted you with the task of designing and implementing a (Power Platform) app together with them. Therefore, invest in good and, above all, clean envisioning your work / app, which involves describing the project and **above all, clearly specifying the requirements**.
+> Your customers need _you_ – otherwise they would not have entrusted you with the task of designing and implementing a (Power Platform) app together with them. Therefore, invest in good and, above all, clean envisioning of your work / app, which involves describing the project and **above all, clearly specifying the requirements**.
 
 **Therefore, I recommend ALWAYS including the following chapters in a basic / minimalistic requirements document.**
 
